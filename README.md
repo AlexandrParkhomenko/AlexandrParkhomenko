@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 [{52tour.ru}](http://52tour.ru)
 [{github.io}](https://AlexandrParkhomenko.github.io)
 [{kaggle.com}](https://www.kaggle.com/alexandrparkhomenko)
+<!-- ![](https://github.githubassets.com/images/modules/dashboard/infocus.jpg) -->
