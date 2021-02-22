@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 [{52tour.ru}](http://52tour.ru)
 [{github.io}](https://AlexandrParkhomenko.github.io)
 [{kaggle.com}](https://www.kaggle.com/alexandrparkhomenko)
+
+[![](https://raw.githubusercontent.com/AlexandrParkhomenko/ai/main/CertificateSamsung.svg)](https://stepik.org/cert/897515)
 <!-- ![](https://github.githubassets.com/images/modules/dashboard/infocus.jpg) -->
