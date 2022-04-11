@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 [{kaggle.com}](https://www.kaggle.com/alexandrparkhomenko)
 
 [![](https://raw.githubusercontent.com/AlexandrParkhomenko/ai/main/CertificateSamsung.svg)](https://stepik.org/cert/897515)
-[![](https://raw.githubusercontent.com/AlexandrParkhomenko/ai/main/CertificateWorkera.svg](https://app.workera.ai/public/candidate/certificate?code=1UTSAZPP)
+[![](https://raw.githubusercontent.com/AlexandrParkhomenko/ai/main/CertificateWorkera.svg)](https://app.workera.ai/public/candidate/certificate?code=1UTSAZPP)
 <!-- ![](https://github.githubassets.com/images/modules/dashboard/infocus.jpg) -->
