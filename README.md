@@ -24,4 +24,13 @@ Here are some ideas to get you started:
 
 [![](https://raw.githubusercontent.com/AlexandrParkhomenko/ai/main/CertificateSamsung.svg)](https://stepik.org/cert/897515)
 [![](https://raw.githubusercontent.com/AlexandrParkhomenko/ai/main/CertificateWorkera.svg)](https://app.workera.ai/public/candidate/certificate?code=1UTSAZPP)
-<!-- ![](https://github.githubassets.com/images/modules/dashboard/infocus.jpg) -->
+
+```
+- Chemical bonds are what make matter matter. 
+  Bonds are what hold the physical world together, what hold us together.
+- I got it.
+- Your test score says otherwise. It tells me you don't get it at all.
+- I mean, 58. I was close.
+- What is close? There's no "close" in science, Barry. 
+  There are right answers and wrong answers. "Close" didn't put men on the moon.
+```
