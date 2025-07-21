@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 [book](https://github.com/PacktPublishing/The-Kaggle-Book)
 [{52tour.ru}](http://52tour.ru)
 
+<!--
 [![](https://raw.githubusercontent.com/AlexandrParkhomenko/ai/main/CertificateSamsung.svg)](https://stepik.org/cert/897515)
 [![](https://raw.githubusercontent.com/AlexandrParkhomenko/ai/main/CertificateWorkera.svg)](https://app.workera.ai/public/candidate/certificate?code=1UTSAZPP)
+-->
 
 ```
 - Chemical bonds are what make matter matter. 
